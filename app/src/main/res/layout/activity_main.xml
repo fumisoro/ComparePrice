@@ -12,7 +12,8 @@
         android:layout_height="wrap_content"
         android:id="@+id/webView1"
         android:layout_gravity="center_horizontal"
-        android:layout_weight="0.23" />
+        android:layout_weight="0.23"
+        android:focusable="false" />
 
     <WebView
         android:layout_width="match_parent"
